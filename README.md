@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/álvaro-debernardi-48b6302b6)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alvarodebernardi1@gmail.com)
 
-#### Welcome to my GitHub page. I'm finishing my computer analytic degree.
+#### Welcome to my GitHub page. I'm a computer analyst.
 
 - 💻 I'm a passionate of computers and tecnology.
 - 🌱 I’m currently learning Spring Security and Assembly
